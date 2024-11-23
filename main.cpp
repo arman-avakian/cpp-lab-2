@@ -3,7 +3,7 @@
 #include <sstream>
 #include <string>
 #include <limits>
-#include <cassert> // Добавлено для использования assert
+#include <cassert> 
 
 // Функция для превращения строки в число
 double stringToDouble(const std::wstring& str) {
